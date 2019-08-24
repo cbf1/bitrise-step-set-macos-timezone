@@ -21,7 +21,7 @@ toolkit:
     entry_file: step.sh
 
 inputs:
-  - example_step_input: GMT
+  - timezone: GMT
     opts:
       title: Time Zone
       description: |
