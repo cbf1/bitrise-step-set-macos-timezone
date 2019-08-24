@@ -1,6 +1,6 @@
-# Set macOS Timezone
+# Set macOS Time Zone
 
-Set macOS Timezone
+Set macOS Time Zone
 
 
 ## How to use this Step
