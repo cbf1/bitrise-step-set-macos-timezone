@@ -1,3 +1,3 @@
-#!/usr/bin/env zsh -ex
+#!/usr/bin/env bash -ex
 
 sudo systemsetup -settimezone "${timezone}"
