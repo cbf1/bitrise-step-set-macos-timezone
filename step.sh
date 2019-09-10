@@ -1,3 +1,3 @@
-#!/usr/bin/env -S bash -ex
+#!/bin/bash -ex
 
 sudo systemsetup -settimezone "${timezone}"
