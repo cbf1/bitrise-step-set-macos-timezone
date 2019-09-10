@@ -21,10 +21,10 @@ toolkit:
     entry_file: step.sh
 
 inputs:
-  - timezone: GMT
-    opts:
-      title: Time Zone
-      description: |
-        Execute `systemsetup -listtimezones` for supported time zones.
-      is_expand: true
-      is_required: true
+- timezone: GMT
+  opts:
+    title: Time Zone
+    description: |
+      Execute `systemsetup -listtimezones` for supported time zones.
+    is_expand: true
+    is_required: true
